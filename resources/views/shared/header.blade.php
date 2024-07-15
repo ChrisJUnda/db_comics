@@ -12,9 +12,9 @@
             <ul class="nav nav-pills">
                 {{-- <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li> --}}
                 <li class="nav-item"><a href="" class="nav-link text-dark">Home</a></li>
-                <li class="nav-item"><a href="" class="nav-link text-dark">Fumetti</a></li>
-                <li class="nav-item"><a href="" class="nav-link text-dark">Fumetti</a></li>
-                <li class="nav-item"><a href="" class="nav-link text-dark">Fumetti</a></li>
+                <li class="nav-item"><a href="" class="nav-link text-dark">Comics</a></li>
+                <li class="nav-item"><a href="" class="nav-link text-dark">Comics</a></li>
+                <li class="nav-item"><a href="" class="nav-link text-dark">Comics</a></li>
 
             </ul>
         </header>
